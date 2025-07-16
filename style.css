@@ -720,7 +720,7 @@ button {
 
   .footer {
     display: flex;
-    text-align: center;
+    text-align: left;
   }
 
 }
